@@ -9,7 +9,7 @@ Rasterio Cookbook
 
 The Rasterio cookbook is intended to provide in-depth examples of rasterio usage
 that are not covered by the basic usage in the User's Manual. Before using code
-from the cookbook, you should be familar with the basic usage of rasterio; see
+from the cookbook, you should be familiar with the basic usage of rasterio; see
 "Reading Datasets", "Working with Datasets" and "Writing Datasets" to brush up on
 the fundamentals.
 
@@ -53,7 +53,7 @@ The original image
 .. image:: img/world.jpg
     :scale: 100 %
 
-Warped to ``EPSG:3759``. Notice that the bounds are contrainted to the new projection's
+Warped to ``EPSG:3759``. Notice that the bounds are constrained to the new projection's
 valid region (``CHECK_WITH_INVERT_PROJ=True`` on line 13) and the new raster is wrapped seamlessly across the anti-meridian.
 
 .. image:: img/reproject.jpg
