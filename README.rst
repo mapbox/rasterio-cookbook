@@ -1,4 +1,4 @@
-# Attention: this repo is out of date and has been archived.
+.. attention:: this repo is out of date and has been archived.
 
 =================
 Rasterio Cookbook
